@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/gunapal.github.io/static/css/main.f78ee93d.css",
-    "main.js": "/gunapal.github.io/static/js/main.0aef8f54.js",
+    "main.js": "/gunapal.github.io/static/js/main.1ebe5321.js",
     "static/js/453.e5b1e204.chunk.js": "/gunapal.github.io/static/js/453.e5b1e204.chunk.js",
     "index.html": "/gunapal.github.io/index.html",
     "main.f78ee93d.css.map": "/gunapal.github.io/static/css/main.f78ee93d.css.map",
-    "main.0aef8f54.js.map": "/gunapal.github.io/static/js/main.0aef8f54.js.map",
+    "main.1ebe5321.js.map": "/gunapal.github.io/static/js/main.1ebe5321.js.map",
     "453.e5b1e204.chunk.js.map": "/gunapal.github.io/static/js/453.e5b1e204.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f78ee93d.css",
-    "static/js/main.0aef8f54.js"
+    "static/js/main.1ebe5321.js"
   ]
 }
